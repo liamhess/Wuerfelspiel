@@ -7,8 +7,8 @@ public class Wuerfelspiel {
 //		System.out.println(w.wuerfeln());
 		
 		WuerfelTester wt = new WuerfelTester();
-		System.out.println(wt.getSummeDrei());
-
+		wt.ausHaeuschen();;
+		
 	}
 
 }
